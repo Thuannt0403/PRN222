@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\bin\Debug\net9.0\AutomobileLibrary.deps.json
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\bin\Debug\net9.0\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\bin\Debug\net9.0\AutomobileLibrary.pdb
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\refint\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.pdb
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\ref\AutomobileLibrary.dll
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\bin\Debug\net9.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\PRN222\hihi\AutomobileSolution\AutomobileLibrary\obj\Debug\net9.0\AutomobileLibrary.genruntimeconfig.cache
