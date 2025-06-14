@@ -1,5 +1,6 @@
-[MyStoreDB.docx](https://github.com/user-attachments/files/20734935/MyStoreDB.docx) (lab_0_DB)
-[Lab_01_AutomobileManagement_Using_EntityFramework and WPF.docx](https://github.com/user-attachments/files/20350109/Lab_01_AutomobileManagement_Using_EntityFramework.and.WPF.docx) (lab_0)
+
+[Lab_01_AutomobileManagement_Using_EntityFramework and WPF.docx](https://github.com/user-attachments/files/20350109/Lab_01_AutomobileManagement_Using_EntityFramework.and.WPF.docx) (lab_0_requirement)
+[MyStoreDB.docx](https://github.com/user-attachments/files/20734935/MyStoreDB.docx) (lab_0_db)
 
 [Uploading SQLMcreate database MyStock;
 
@@ -24,8 +25,8 @@ INSERT INTO Cars (CarID, CarName, Manufacturer, Price, ReleasedYear) VALUES
 use MyStock
 select * from CarsyStock.docx…]()
 
-[PRN222Lab_01_ProductManagement_ASP. NET Core Web App MVC.docx](https://github.com/user-attachments/files/20734909/PRN222Lab_01_ProductManagement_ASP.NET.Core.Web.App.MVC.docx) (lab_01)
-[SQLMyStock.docx](https://github.com/user-attachments/files/20734933/SQLMyStock.docx) (lab_01_DB)
+[PRN222Lab_01_ProductManagement_ASP. NET Core Web App MVC.docx](https://github.com/user-attachments/files/20734909/PRN222Lab_01_ProductManagement_ASP.NET.Core.Web.App.MVC.docx) (lab_01_requirement)
+[SQLMyStock.docx](https://github.com/user-attachments/files/20734933/SQLMyStock.docx) (lab_01_db)
 [Uploadicreate database MyStoreDB;
 
 USE MyStoreDB;
